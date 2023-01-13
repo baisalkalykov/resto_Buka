@@ -1,0 +1,221 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(215, 223, 201);
+}
+nav{
+    background-color: rgba(166, 166, 102, 0.953);
+    height: 100x;
+    width: 100%;
+}
+nav .logo{
+    color: rgb(29, 29, 34);
+    font-size: 35px;
+    line-height: 60px;
+    padding: 500px;
+    font-weight: bold;
+}
+
+ nav  img{
+    border-radius: 50%;
+    margin-left: -1300px;
+    margin-top: 15px;
+ }
+nav ul{
+    float: right;
+    margin-right: 20px;
+}
+nav ul li{
+    display: inline-block;
+    line-height: 60px;
+    margin-top:55px;
+}
+nav ul li{
+    color: aliceblue;
+}
+
+body h2{
+    text-align: center;
+    padding: 20px;
+
+}
+.container-image{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.container-image .row{
+    display: flex;
+}
+.container-image .card-srr{
+    margin-left: 25px;
+}
+.container-image .card-tt{
+    margin-left: 25px;
+}
+.container-image .card-keb{
+    margin-left: 25px;
+}
+.container-image .card-osh{
+    margin-left: 25px;
+}
+.container-image .card-root{
+    margin-left: 25px;
+}
+body h1{
+    text-align: center;
+    padding: 20px;
+}
+.container-steak {
+    margin-left: 30px;
+    margin-top: 20px;  
+}
+.container-steak .row-12{
+    display: flex;
+}
+.container-steak .card-34{
+    margin-left: 25px;
+}
+.container-steak .card-23{
+    margin-left: 25px;
+}
+.container-steak .card-55{
+    margin-left: 25px;
+}
+.container-steak .card-69{
+    margin-left: 25px;
+}
+.container-steak .card-11{
+    margin-left: 25px;
+}
+.container-steak .card-45{
+    margin-left: 25px;
+}
+.container-steak .card-18{
+    margin-left: 25px;
+}
+
+    
+ .okey h1{
+    text-align: center;
+    padding: 20px; 
+ }
+ .container-salatik{
+    margin-left: 30px;
+    margin-top: 20px;
+ }
+ .container-salatik .row-67{
+    display: flex;
+ }
+.container-salatik .card-sal{
+    margin-left: 25px;
+
+}
+.container-salatik .card-oliv{
+    margin-left: 25px;
+    
+    
+}
+.container-salatik .card-ven{
+    margin-left: 25px;
+
+}
+.container-salatik .card-seth{
+    margin-left: 25px;
+}
+.container-salatik .card-pom{
+    margin-left: 25px;
+}
+.container-salatik .card-grek{
+    margin-left: 25px;
+}
+
+
+.name h1{
+    text-align: center;
+    margin-top: 40px;
+    padding: 20px;
+}
+.container-drink{
+    margin-left: 30px;
+    margin-top: 20px;  
+
+}
+.container-drink .row{
+    display: flex;
+}
+.container-drink .card-fant{
+    margin-left: 25px;
+}
+.container-drink .card-pep{
+    margin-left: 25px;
+}
+.container-drink .card-sp{
+    margin-left: 25px;
+}
+.container-drink .card-bor{
+    margin-left: 25px;
+}
+.container-drink .card-leg{
+    margin-left: 25px;
+}
+.container-drink .card-jab{
+    margin-left: 25px;
+}
+.container-drink .card-ysyk{
+    margin-left: 25px;
+}
+footer{
+    position: absolute;
+    bottom: auto;
+    left: auto;
+    right: auto;
+    background-color:rgb(8, 8, 8);
+    height: auto;
+    width: 100vw;
+    font-family: "Open Sans";
+    padding-top: 40px;
+    color: azure;
+}
+.footer-content{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.footer-content h3{
+    margin-top: -20px;
+}
+.top{
+    list-style: none;
+    display: flex;
+    margin-top: 15px;
+}
+.top li{
+    margin: 0 10px ;
+}
+.top i{
+    text-decoration: none;
+    color: azure;
+}
+.top li i{
+    font-size: 1.1rem; 
+}
+.top li:hover i{
+    color: aqua;
+}
+.footer-bos{
+    text-align: center;
+    background-color: black;
+    width: 100vw;
+    padding: 20px 0;
+}
+.footer-bos p{
+    font-size: 14px;
+    word-spacing: 2px;
+    text-transform: capitalize;
+    opacity: .4;
+    font-weight: 200;
+}
